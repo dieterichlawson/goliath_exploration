@@ -7,3 +7,5 @@ To use it:
 
     ruby simple_uploader.rb -sv
     curl -F file=@your_file.txt http://localhost:9000
+
+Afterwards, `your_file.txt` will be in a directory called uploads in the same directory as simple_uploader.rb.
