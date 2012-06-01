@@ -1,10 +1,7 @@
-This repo holds various small explorations
-of the Goliath webserver (http://goliath.io).
+This repo holds various small explorations of the Goliath webserver (http://goliath.io).
 
 ###simple_uploader.rb
-A simple server that accepts HTTP POST requests that
-contain file uploads, and writes them to an 'uploads'
-directory.
+Accepts an HTTP POST request that contains a file upload, and writes the file to an 'uploads' directory.
 
 To use it:
 
